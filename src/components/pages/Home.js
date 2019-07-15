@@ -13,5 +13,5 @@ export const Home = () => (
 const titleStyle = {
     textAlign: 'center',
     fontSize: '100px',
-    paddingTop: '100px'
+    paddingTop: '10%'
 }
