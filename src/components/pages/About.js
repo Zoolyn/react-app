@@ -2,7 +2,7 @@ import React from 'react'
 
 export const About = () => (
     <div>
-        <h1>About Me</h1>
+        <h1 className="PageTitle">About Me</h1>
         <h2>My name is Jerry Zhu. I am a software developer, I also build and design things for the web!</h2>
         <h3>I am currently a senior at Rutgers University working towards a B.S. in Computer Science and Minor in Economics.</h3>
         <br/>

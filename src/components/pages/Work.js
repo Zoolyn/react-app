@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Work = () => (
     <div>
-        <h1>Projects</h1>
+        <h1 className="PageTitle">Projects</h1>
         <h2>Check out what I worked on or currently working on below!</h2>
         <p>Song Recommender Application</p>
         <p>JSP, CSS, SQL, AWS, Tomcat</p>

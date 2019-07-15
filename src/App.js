@@ -1,11 +1,12 @@
 import React from 'react';
+import './App.css';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Header from './components/layout/Header';
 import {Home} from './components/pages/Home';
 import {About} from './components/pages/About';
 import {Work} from './components/pages/Work';
 import {NotFound} from './components/pages/NotFound';
-import './App.css';
+
 
 function App() {
   return (

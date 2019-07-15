@@ -4,7 +4,11 @@
   padding: 0;
 }
 body {
-  
+  font-family: 'Montserrat', sans-serif;
+}
+.PageTitle{
+  color: #3FC1C9;
+  font-family: 'Yellowtail', cursive;
 }
 
 @media only screen and (max-width: 600px) {

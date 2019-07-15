@@ -1,5 +1,5 @@
 import React from 'react'
 
 export const NotFound = () => (
-    <h1>404 Not Found</h1>
+    <h1 style={{textAlign: 'center'}}>404 Not Found</h1>
 )
