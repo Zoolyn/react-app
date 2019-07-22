@@ -5,13 +5,32 @@
 }
 body {
   font-family: 'Montserrat', sans-serif;
+  margin-top: 56px;
 }
 .PageTitle{
   color: #3FC1C9;
   font-family: 'Yellowtail', cursive;
+  font-size: 10em;
+}
+
+.contactSection {
+  text-align: center;
+  height: 400px;
+  background-color: #364F6B;
+  color: #F5F5F5;
+  font-size: 2.5em;
+  padding-top: 1%;
+}
+
+.contactSection img{
+  padding-top: 7%;
+}
+
+a.hover {
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 600px) {
-  body {
-  }
+
+
 }
