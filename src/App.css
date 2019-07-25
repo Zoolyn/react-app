@@ -7,10 +7,20 @@ body {
   font-family: 'Montserrat', sans-serif;
   margin-top: 56px;
 }
+
+.bg-light{
+  background-color: #F5F5F5;
+}
+
+.navbar-brand a {
+  color: #3FC1C9;
+  text-decoration: none;
+}
+
 .PageTitle{
   color: #3FC1C9;
   font-family: 'Yellowtail', cursive;
-  font-size: 10em;
+  font-size: 7vw;
 }
 
 .contactSection {
@@ -28,9 +38,4 @@ body {
 
 a.hover {
   cursor: pointer;
-}
-
-@media only screen and (max-width: 600px) {
-
-
 }
